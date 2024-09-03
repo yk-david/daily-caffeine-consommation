@@ -24,3 +24,8 @@ function incTea() {
     saveEl.textContent += 'Black Tea - ';
 }
 
+function reset() {
+    count = 0;
+    countEl.textContent = count;
+    saveEl.textContent = 'You have taken:';
+}

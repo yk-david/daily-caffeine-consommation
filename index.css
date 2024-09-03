@@ -69,12 +69,17 @@ h2 {
 }
 
 
-#increment-btn {
-    background: darkred;
-}
-
-#save-btn {
-    background: darkgreen;
+#reset {
+    width: 150px;
+    color: white;
+    background: green;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
 }
 
 #save-el {
